@@ -132,10 +132,16 @@ html {
 .navbar-brand {
   font-family: 'Quattrocento Sans', sans-serif;
   font-weight: 900;
-  font-size: 1.5em;
+  font-size: 1.8em;
 }
 
 #masterLogo {
   font-family: 'Quattrocento Sans', sans-serif;
-  font-weight: 900;
+  font-weight: 800;
+  font-size: 5.5em;
+}
+
+#masterLogoSubtitle {
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-weight: 600;
 }
